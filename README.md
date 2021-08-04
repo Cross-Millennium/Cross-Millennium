@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Cross-Millennium
+- 👀 I’m currently learning and interested in Python
+- 📫 You can reach me on CrossMillennium@Gmail.Com
